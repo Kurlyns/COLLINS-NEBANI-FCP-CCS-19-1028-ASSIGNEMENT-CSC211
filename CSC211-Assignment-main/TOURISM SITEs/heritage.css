@@ -1,0 +1,39 @@
+body{
+         background-image: url(../images/IMG_9606.JPG);
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: fixed; 
+    }
+img {
+	width: 249px;
+	height: 230px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black  
+	}
+	nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: grey;
+}
+ul li a {
+    text-decoration: none;
+    }
